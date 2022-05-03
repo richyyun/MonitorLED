@@ -7,8 +7,8 @@ The Example.mp4 file is a short video of it in action.
 A couple screenshots: 
 
 <p align="center">
-  <img width="700" height="500" src="https://github.com/richyyun/MonitorLED/Screencap1.PNG">
+  <img width="700" height="500" src="https://github.com/richyyun/MonitorLED/blob/main/Screencap1.PNG">
 </p>
 
 <p align="center">
-  <img width="700" height="500" src="https://github.com/richyyun/MonitorLED/Screencap2.PNG">
+  <img width="700" height="500" src="https://github.com/richyyun/MonitorLED/blob/main/Screencap2.PNG">
