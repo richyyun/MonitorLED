@@ -4,7 +4,7 @@ A simple project for custom made LED strip lights for a computer monitor using a
 
 The Example.mp4 file is a short video of it in action. 
 
-A couple screenshots:
+A couple screenshots: 
 
 <p align="center">
   <img width="700" height="500" src="https://github.com/richyyun/MonitorLED/Screencap1.PNG">
